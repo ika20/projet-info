@@ -12,7 +12,7 @@ void menu() {
   if(jouer){
     cout << endl;
     cout << "--------------------------------------------MODES-------------------------------------------" << endl;
-    cout << "| - c : mode classique : grille 4x4, score                                                  |" << endl;
+    cout << "| - c : mode classique :                                                                    |" << endl;
     cout << "|        > grille 4x4                                                                       |" << endl;
     cout << "|        > score a atteindre : 2048                                                         |" << endl;
     cout << "|        > probabilite d'avoir un 2 pour une nouvelle tuile : 9/10                          |" << endl;
@@ -22,7 +22,7 @@ void menu() {
     cout << "|        > score a atteindre : personnalise                                                 |" << endl;
     cout << "|        > probabilite d'avoir un 2 pour une nouvelle tuille : au choix entre 0 et 10       |" << endl;
     cout << "|                                                                                           |" << endl;
-    cout << "| - r : mode aleatoire                                                                      |" << endl;
+    cout << "| - r : mode aleatoire :                                                                    |" << endl;
     cout << "|        > grille de dimension aleaatoire entre 4x4 et 10x10                                |" << endl;
     cout << "|        > score a atteindre : aleatoire entre 128 et 2048                                  |" << endl;
     cout << "|        > probabilite d'avoir un 2 pour une nouvelle tuille : au choix entre 0 et 10       |" << endl;
