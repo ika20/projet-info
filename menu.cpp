@@ -14,7 +14,7 @@ void menu() {
     cout << "--------------------------------------------MODES-------------------------------------------" << endl;
     cout << "| - c : mode classique :                                                                    |" << endl;
     cout << "|        > grille 4x4                                                                       |" << endl;
-    cout << "|        > score a atteindre : 2048                                                         |" << endl;
+    cout << "|        > valeur a atteindre : 2048                                                        |" << endl;
     cout << "|        > probabilite d'avoir un 2 pour une nouvelle tuile : 9/10                          |" << endl;
     cout << "|                                                                                           |" << endl;
     cout << "| - p : mode personnalise :                                                                 |" << endl;
